@@ -4,8 +4,8 @@ keywords: hate speech, NLP #博客关键字
 author: "Huangpan Zhang"
 
 #title hide and show
-hide: Hate Speech Research
-show: Hate Speech Research 
+# hide: Hate Speech Research
+# show: Hate Speech Research
 
 baseurl: "test" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 # url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
@@ -17,7 +17,7 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://www.hamburg.de/contentblob/13462718/b3b3cad1560b5a10376f62c25f7cb2b4/data/jb-hate-speech.jpg
+background: assets/img/logo.png
 theme_color: 004C93
 
 # google_analytics:
