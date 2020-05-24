@@ -17,7 +17,7 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: "/assets/img/no_hate_speech.jpg"
+background: https://images.app.goo.gl/kHLo755AEpKtYs9c7
 theme_color: 004C93
 
 # google_analytics:
