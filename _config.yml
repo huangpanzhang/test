@@ -1,15 +1,15 @@
-title: Link #博客标题
-description: Just 4 Fun. #博客描述
-keywords: blog,css,html,php #博客关键字
-author: "Link"
+title: Hate Speech Research #博客标题
+description: A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen. #博客描述
+keywords: hate speech, NLP #博客关键字
+author: "Huangpan Zhang"
 
 #title hide and show
-hide: (つェ⊂)我藏好啦
-show: ´∇｀ 呀被发现啦~ 
+hide: Hate Speech Research
+show: Hate Speech Research 
 
-baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
-buildtime: "1514736000" #博客建立时的时间戳 可进入https://tool.lu/timestamp/将博客建立时的日期转换成时间戳
+baseurl: "test" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+# url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
+buildtime: "1590344654" #博客建立时的时间戳 可进入https://tool.lu/timestamp/将博客建立时的日期转换成时间戳
            #The timestamp at the time of blog establishment can be entered at https://tool.lu/timestamp/to convert the date at the time of blog establishment into a timestamp.
 
 PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
@@ -17,14 +17,14 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://api.dujin.org/bing/1920.php
-theme_color: 546E7A
+background: /assets/img/no_hate_speech.jpg
+theme_color: \#04c93
 
-google_analytics:
-# hydrogen-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-hydrogen-blog:
-  date_format: "%b %-d, %Y"
+# google_analytics:
+# # hydrogen-blog date format
+# # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+# hydrogen-blog:
+#   date_format: "%b %-d, %Y"
 
 #MathJax switch
 MathJax: false
