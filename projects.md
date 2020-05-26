@@ -1,12 +1,6 @@
 ---
 ---
 
-# Skills & Offers
-
----
-layout: default
----
-
 # Projects
 
 ### Here you can find all projects of hate speech detection at our lab.

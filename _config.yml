@@ -29,14 +29,14 @@ menu:
     icon: ""
 
 # Socialmedia Icons
-social_icons:
-  - name: LTL
-    link: https://www.linkedin.com/christianezeani
-    icon: /assests/images/logo.ico
+# social_icons:
+#   - name: LTL
+#     link: https://www.linkedin.com/christianezeani
+#     icon: /assests/images/logo.ico
 
-  - name: UCSM
-    link: https://github.com/christianezeani
-    icon: https://www.ucsm.info/templates/shaper_helix_ii/favicon.ico
+#   - name: UCSM
+#     link: https://github.com/christianezeani
+#     icon: https://www.ucsm.info/templates/shaper_helix_ii/favicon.ico
 
   # - name: facebook
   #   link: https://www.facebook.com/christian.ezeani.cyb
