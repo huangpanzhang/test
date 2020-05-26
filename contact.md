@@ -1,7 +1,6 @@
 ---
 ---
 
-# Contact Information
 
 [M.Sc. Huangpan Zhang](mailto:huangpan.zhang@uni-due.de)
 

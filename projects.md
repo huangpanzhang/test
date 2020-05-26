@@ -1,8 +1,6 @@
 ---
 ---
 
-# Projects
-
 ### Here you can find all projects of hate speech detection at our lab.
 
 ## General methodologies

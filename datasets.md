@@ -1,7 +1,6 @@
 ---
 ---
 
-# Datasets
 
 ### Here you can find all datasets about hate speech, which are colleted and created by our lab.
 
