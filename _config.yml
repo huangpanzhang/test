@@ -34,13 +34,13 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /test/
+  url: /
 - title: Projects
-  url: /test/projects/
+  url: /projects
 - title: Datasets
-  url: /test/datasets/
+  url: /datasets
 - title: Contact
-  url: /test/contact/
+  url: contact
 
 
 # Footer nav
