@@ -6,8 +6,8 @@ defaults:
     values:
       layout: default
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Hate Speech Research
+subtitle: A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen.
 
 # Side Menu Links
 menu:
@@ -29,21 +29,21 @@ menu:
 
 # Socialmedia Icons
 social_icons:
-  - name: linkedin
+  - name: LTL
     link: https://www.linkedin.com/christianezeani
     icon: fab fa-linkedin
 
-  - name: github
+  - name: UCSM
     link: https://github.com/christianezeani
     icon: fab fa-github-square
 
-  - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
-    icon: fab fa-facebook-square
+  # - name: facebook
+  #   link: https://www.facebook.com/christian.ezeani.cyb
+  #   icon: fab fa-facebook-square
 
-  - name: twitter
-    link: https://www.twitter.com/christianezeani
-    icon: fab fa-twitter
+  # - name: twitter
+  #   link: https://www.twitter.com/christianezeani
+  #   icon: fab fa-twitter
 
 
     
