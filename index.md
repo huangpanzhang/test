@@ -1,7 +1,7 @@
 ---
 title: General Introduction
 layout: page
-feature_image: "/assests/img/no_hate_speech"
+feature_image: "{{ /assests/img/no_hate_speech }}"
 feature_text: |
   # Welcome to LTL Hate Speech Website
 ---
