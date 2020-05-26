@@ -8,23 +8,23 @@ defaults:
 
 title: Hate Speech Research
 # subtitle: A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen.
-description: [A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen.]
+description: A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen.
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Home
     link: /
     icon: ""
 
-  - text: Skills & Offers
+  - text: Projects
     link: /skills-and-offers
     icon: ""
 
-  - text: Contact Me
+  - text: Datasets
     link: /contact
     icon: ""
 
-  - text: My Resume
+  - text: Contact
     link: /resume
     icon: ""
 
@@ -32,11 +32,11 @@ menu:
 social_icons:
   - name: LTL
     link: https://www.linkedin.com/christianezeani
-    icon: fab fa-linkedin
+    icon: /assests/images/logo.ico
 
   - name: UCSM
     link: https://github.com/christianezeani
-    icon: fab fa-github-square
+    icon: https://www.ucsm.info/templates/shaper_helix_ii/favicon.ico
 
   # - name: facebook
   #   link: https://www.facebook.com/christian.ezeani.cyb
