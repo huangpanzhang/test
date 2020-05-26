@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://huangpanzhang.github.io/test'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Hate Speech Research'
+description: 'A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://www.ltl.uni-due.de/assets/images/logo3.png"
 
 # Pagination
 paginate: 5
@@ -35,10 +35,13 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Projects
+  url: /projects/
+- title: Datasets
+  url: /datasets/
+- title: Contact
+  url: /contact/
+
 
 # Footer nav
 navigation_footer:
