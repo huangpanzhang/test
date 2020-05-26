@@ -21,7 +21,7 @@ plugins:
 
 # Site settings
 url: 'https://huangpanzhang.github.io/test'
-baseurl: ''
+baseurl: '/'
 title: 'Hate Speech Research'
 description: 'A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen'
 permalink: pretty
