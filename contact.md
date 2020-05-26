@@ -1,4 +1,6 @@
 ---
+title: Contact Information
+layout: page
 ---
 
 

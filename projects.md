@@ -1,4 +1,6 @@
 ---
+title: Projects
+layout: page
 ---
 
 ### Here you can find all projects of hate speech detection at our lab.
