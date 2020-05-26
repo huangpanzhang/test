@@ -1,9 +1,8 @@
 ---
-title: General Introduction
+title: Welcome to LTL Hate Speech Website
 layout: page
 feature_image: "https://www.hamburg.de/contentblob/13462718/b3b3cad1560b5a10376f62c25f7cb2b4/data/jb-hate-speech.jpg"
-feature_text: |
-  # Welcome to LTL Hate Speech Website
+# feature_text: 
 ---
 
 ## Hate Speech
