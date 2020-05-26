@@ -7,7 +7,8 @@ defaults:
       layout: default
 
 title: Hate Speech Research
-subtitle: A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen.
+# subtitle: A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen.
+description: [A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen.]
 
 # Side Menu Links
 menu:
