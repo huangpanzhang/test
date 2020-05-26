@@ -1,7 +1,7 @@
 ---
 title: General Introduction
 layout: page
-feature_image: "{{ /assests/img/no_hate_speech }}"
+feature_image: "https://www.hamburg.de/pressearchiv-fhh/13462698/2020-01-14-jb-hasskommentare-im-internet/"
 feature_text: |
   # Welcome to LTL Hate Speech Website
 ---
