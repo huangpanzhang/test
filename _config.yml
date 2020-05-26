@@ -1,46 +1,49 @@
-title: Hate Speech Research #博客标题
-description: A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen. #博客描述
-keywords: hate speech, NLP #博客关键字
-author: "Huangpan Zhang"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
 
-#title hide and show
-# hide: Hate Speech Research
-# show: Hate Speech Research
+title: Christian Ezeani
+subtitle: Full-Stack Developer
 
-baseurl: "test" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-# url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
-buildtime: "1590344654" #博客建立时的时间戳 可进入https://tool.lu/timestamp/将博客建立时的日期转换成时间戳
-           #The timestamp at the time of blog establishment can be entered at https://tool.lu/timestamp/to convert the date at the time of blog establishment into a timestamp.
+# Side Menu Links
+menu:
+  - text: Portfolio
+    link: /
+    icon: ""
 
-PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
+  - text: Skills & Offers
+    link: /skills-and-offers
+    icon: ""
 
-paginate: 8 #同时显示的最大文章数，超过自动分页
-paginate_path: "page:num"
+  - text: Contact Me
+    link: /contact
+    icon: ""
 
-background: assets/img/logo.png
-theme_color: 004C93
+  - text: My Resume
+    link: /resume
+    icon: ""
 
-# google_analytics:
-# # hydrogen-blog date format
-# # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-# hydrogen-blog:
-#   date_format: "%b %-d, %Y"
+# Socialmedia Icons
+social_icons:
+  - name: linkedin
+    link: https://www.linkedin.com/christianezeani
+    icon: fab fa-linkedin
 
-#MathJax switch
-MathJax: false
+  - name: github
+    link: https://github.com/christianezeani
+    icon: fab fa-github-square
 
-#install emoji
-plugins:
-  - jemoji
+  - name: facebook
+    link: https://www.facebook.com/christian.ezeani.cyb
+    icon: fab fa-facebook-square
 
-# social account
-image:
-twitter:
-  username:
-#  site:
-facebook:
-  #publisher: null
-  #profile_id: null
-  app_id: null
-  #authors: null
-#  admins:
+  - name: twitter
+    link: https://www.twitter.com/christianezeani
+    icon: fab fa-twitter
+
+
+    
