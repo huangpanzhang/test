@@ -1,9 +1,9 @@
 ---
-title: Welcome to LTL Hate Speech Website
+title: General Introduction
 layout: page
-feature_image: /assests/img/no_hate_speech
+feature_image: "/assests/img/no_hate_speech"
 feature_text: |
-  # Hello world
+  # Welcome to LTL Hate Speech Website
 ---
 
 ## Hate Speech
