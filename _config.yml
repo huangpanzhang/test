@@ -17,15 +17,15 @@ menu:
     icon: ""
 
   - text: Projects
-    link: /skills-and-offers
+    link: /projects
     icon: ""
 
   - text: Datasets
-    link: /contact
+    link: /datasets
     icon: ""
 
   - text: Contact
-    link: /resume
+    link: /contact
     icon: ""
 
 # Socialmedia Icons
