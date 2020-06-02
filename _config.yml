@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hate Speech Research
-subtitle: by LTL at University Duisburg-Essen
+title: Hate Speech
+subtitle: by LTL at UDE
 description: >- # this means to ignore newlines until "baseurl:"
   This website links all research progress and datasets by our lab.
 author: Huangpan Zhang
