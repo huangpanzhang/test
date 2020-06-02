@@ -1,18 +1,19 @@
 ---
 title: Projects
-layout: page
+subtitle: Here you can find a list of hate speech research at our lab.
+layout: "page"
+icon: fa-tasks
+order: 3
 ---
 
-### Here you can find all projects of hate speech detection at our lab.
-
-## General methodologies
+### General methodologies
 
 - Word/character level features (swear words, stereotypes) 
 - Semantic features (sentiment analysis, TF\-IDF) 
 - Word embedding 
 - Shallow learning as well as deep learning model
 
-## In Progress
+### In Progress
 
 **Definition of hate speech**
 
@@ -38,7 +39,7 @@ layout: page
 - Possible solution of of detect hate speech based on culture background (not solved yet)
 - You can find our dataset [here](./datasets)
 
-## Planed
+### Planed
 
 **Group detection in hate speech dataset**
 
@@ -51,7 +52,7 @@ layout: page
  - We already have the data 
  - Research question need to be clarified/specified
 
-## Past
+### Past
 
 **SemEval Shared Task-5**
 - A [shared task](https://competitions.codalab.org/competitions/19935) aim to detect hate speech targeted to women or refugess, you can find more information in [this paper](https://www.aclweb.org/anthology/S19-2007.pdf)

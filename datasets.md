@@ -1,10 +1,10 @@
 ---
 title: Dataset
-layout: page
+subtitle: Here you can find all datasets about hate speech, which are colleted and created by our lab.
+layout: "page"
+icon: fa-database
+order: 4
 ---
-
-
-### Here you can find all datasets about hate speech, which are colleted and created by our lab.
 
 **Cultural difference:**
 

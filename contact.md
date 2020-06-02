@@ -1,6 +1,8 @@
 ---
 title: Contact Information
+subtitle: Feel free to contact us.
 layout: page
+order: 6
 ---
 
 
