@@ -1,6 +1,6 @@
 ---
-title: Updates
 layout: blog
+title: Updates
 icon: fa-pencil-alt
 order: 2
 ---
