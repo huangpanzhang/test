@@ -35,7 +35,7 @@ subtitle: by LTL at UDE
 description: >- # this means to ignore newlines until "baseurl:"
   This website links all research progress and datasets by our lab.
 author: Huangpan Zhang
-email: huangpan.zhang@uni-due.de
+# email: huangpan.zhang@uni-due.de
 avatar: assets/images/logo.png
 
 # You'll want to customize url and baseurl for your own site:
