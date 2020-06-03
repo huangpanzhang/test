@@ -3,7 +3,7 @@ title: Contact Information
 subtitle: Feel free to contact us.
 layout: "page"
 icon: fa-address-book
-order: 6
+order: 7
 ---
 
 
