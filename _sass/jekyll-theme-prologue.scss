@@ -129,7 +129,7 @@
 	a {
 		text-decoration: none;
 		color: inherit;
-		border-bottom: dotted 1px rgba(12, 91, 236, 0.603);
+		border-bottom: dotted 5px rgba(0, 26, 255, 0.603);
 		@include vendor('transition', ('color 0.35s ease-in-out', 'border-bottom-color 0.35s ease-in-out'));
 		outline: 0;
 
