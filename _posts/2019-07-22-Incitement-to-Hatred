@@ -1,0 +1,9 @@
+---
+title: Incitement to Hatred
+author: Huangpan Zhang
+layout: post
+---
+
+Hate speech detection or offensive language detection are well-established but controversial NLP tasks, the reaction of such content is usually deletion and punishment. However, given the importance of freedom of expression for the public discourse in a democracy, determining statements that would potentially be subject to these measures requires a legal justiﬁcation that outweighs the right to free speech in the respective case
+
+We begin the cooperation with [Dr. Frederike Zufall](https://www.researchgate.net/profile/Frederike_Zufall), try to operationalize the German Criminal Code § 130 into an NLP task.
