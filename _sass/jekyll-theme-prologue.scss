@@ -361,23 +361,23 @@
 		}
 
 		.formerize-placeholder {
-			color: rgb(255, 255, 255) !important;
+			color: #555 !important;
 		}
 
 		::-webkit-input-placeholder {
-			color: rgb(255, 255, 255) !important;
+			color: #555 !important;
 		}
 
 		:-moz-placeholder {
-			color: rgb(255, 255, 255) !important;
+			color: #555 !important;
 		}
 
 		::-moz-placeholder {
-			color: rgb(255, 255, 255) !important;
+			color: #555 !important;
 		}
 
 		:-ms-input-placeholder {
-			color: rgb(255, 255, 255) !important;
+			color: #555 !important;
 		}
 
 		::-moz-focus-inner {
@@ -574,6 +574,9 @@
 					display: block;
 					padding: 0.5em 1.5em 0.5em 1.5em;
 					color: rgba(255, 255, 255, 0.5);
+					h1, h2, h3, h4, h5, h6 {
+						color: #c9e7f8;
+					}
 					text-decoration: none;
 					outline: 0;
 					border: 0;
