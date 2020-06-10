@@ -568,10 +568,6 @@
 			hr {
 				margin: auto 1.5em;
 			}
-			
-			h1, h2, h3, h4, h5, h6 {
-				color: #c9e7f8;
-			}
 
 			li {
 				a {
@@ -587,11 +583,14 @@
 						position: relative;
 						display: block;
 						font-size: 0.8em;
+						h1, h2, h3, h4, h5, h6 {
+							color: #c9e7f8;
+						}
 
 						&::before {
 							position: absolute;
 							left: 0;
-							color: #ff002b;
+							color: #c9e7f8;
 							text-align: center;
 							width: 1.25em;
 							line-height: 1.75em;
